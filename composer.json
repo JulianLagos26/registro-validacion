@@ -1,0 +1,11 @@
+{
+    "license": "proprietary",
+    "name": "tellosa/app",
+    "description": "descripcion",
+    "autoload": {
+        "psr-4": {
+            "Tellosa\\App\\": "src/"
+        }
+    },
+    "require": {}
+}
